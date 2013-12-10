@@ -1,4 +1,4 @@
-## beego
+## beego1
 
 [![Build Status](https://drone.io/github.com/astaxie/beego/status.png)](https://drone.io/github.com/astaxie/beego/latest)
 
